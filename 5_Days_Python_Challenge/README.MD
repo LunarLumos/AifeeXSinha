@@ -1,5 +1,4 @@
 # 🗓️ **Python in 5 Days**
-                           -- Aifee Aadil
 
 ---
 

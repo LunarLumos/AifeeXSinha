@@ -229,9 +229,13 @@ finally:
 
 By the end of Day 2, you should be able to:
 ✅ Make **decisions in code** using `if`, `elif`, `else`
+
 ✅ Combine multiple conditions with `and`, `or`, `not`
+
 ✅ Write **reusable functions** with parameters and return values
+
 ✅ Understand **scope of variables**
+
 ✅ Handle **basic runtime errors** safely
 
 ---

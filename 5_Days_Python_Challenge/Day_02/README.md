@@ -228,6 +228,7 @@ finally:
 ## 🎯 **Day 2 Goal**
 
 By the end of Day 2, you should be able to:
+
 ✅ Make **decisions in code** using `if`, `elif`, `else`
 
 ✅ Combine multiple conditions with `and`, `or`, `not`

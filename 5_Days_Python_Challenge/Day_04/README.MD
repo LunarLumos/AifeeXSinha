@@ -354,8 +354,11 @@ Output example:
 ## 🎯 **Day 4 Summary**
 
 By now you can:
+
 ✅ Use **tuples**, **sets**, and **dictionaries**
+
 ✅ **Read and write** text files
+
 ✅ Use modules like **math**, **random**, and **datetime**
 
 ---

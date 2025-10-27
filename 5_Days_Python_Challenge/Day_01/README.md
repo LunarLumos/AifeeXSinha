@@ -293,6 +293,7 @@ print(len("Python"))
 ## 🎯 **Goal Recap**
 
 By end of Day 1, you should be able to:
+
 ✅ Understand Python’s core concepts and uses
 
 ✅ Write and run Python scripts

@@ -2,23 +2,7 @@
 
 # 🐍 **DAY 4 – Data Structures & File I/O**
 
----
 
-## 🧠 What You’ll Learn Today
-
-You’ll learn about:
-
-✅ Tuples (like lists but cannot change)
-
-✅ Sets (no duplicates)
-
-✅ Dictionaries (key–value storage)
-
-✅ Reading and writing files
-
-✅ Simple Python modules (`math`, `random`, `datetime`)
-
----
 
 ## 🟢 1. **Tuples**
 

@@ -294,9 +294,13 @@ print(len("Python"))
 
 By end of Day 1, you should be able to:
 ✅ Understand Python’s core concepts and uses
+
 ✅ Write and run Python scripts
+
 ✅ Handle variables and data types
+
 ✅ Take user input and display formatted output
+
 ✅ Use built-in functions and comments
 
 ---

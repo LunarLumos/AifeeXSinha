@@ -408,6 +408,7 @@ for i in range(0, 10, 2):
 ## 🎯 **DAY 3 GOALS**
 
 By the end of this day, you should be able to:
+
 ✅ Use `for` and `while` loops effectively
 
 ✅ Control loops with `break`, `continue`, and `pass`
